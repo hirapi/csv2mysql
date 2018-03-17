@@ -1,0 +1,4 @@
+#!/usr/bin/env ruby
+
+require 'csv2mysql/cli'
+Csv2mysql::CLI.start
